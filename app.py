@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Hello from Dockerized Python App!"
+    return "Lingesh Learning DevOps!"
 
 @app.route("/health")
 def health():
