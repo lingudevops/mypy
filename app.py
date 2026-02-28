@@ -12,7 +12,7 @@ def home():
                 body {
                     margin: 0;
                     overflow: hidden;
-                    background-color: lightblue;
+                    background-color: green;
                 }
                 #message {
                     position: absolute;
